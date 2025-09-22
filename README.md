@@ -1,6 +1,7 @@
 # ElevateLabs
 
-I have used pandas library to perform cleaning, detecting null values and finding duplicates in dataset.
+I have used python tool for this task.
+I have made use of pandas library to perform cleaning, detecting null values and finding duplicates in dataset.
 Isnull() and duplicated() function is used to find out any null/ duplicate values in dataset.
 I have check all columns for standardization of data.
 Converted Date column to particular format dd-mm-yy.
